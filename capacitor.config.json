@@ -1,7 +1,7 @@
 {
   "appId": "com.zabata.app",
   "appName": "ZABATA",
-  "webDir": "www",
+  "webDir": ".",
   "server": {
     "androidScheme": "https"
   }
